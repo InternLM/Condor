@@ -31,11 +31,11 @@ Condor is a two-stage data synthesis engine adopted in InternLM3, designed to ge
 
 - **Condor Void (Data Synthesis):**
 
-  During the data synthesis stage, Condor introduces the \textbf{World Knowledge Tree}, which serves as a foundation of tags for data generation. Next, we apply task and difficulty expansion to enhance the diversity and complexity of questions under each tag, leading to the creation of the initial synthetic QA dataset.
+  During the data synthesis stage, Condor introduces the **World Knowledge Tree**, which serves as a foundation of tags for data generation. Next, we apply task and difficulty expansion to enhance the diversity and complexity of questions under each tag, leading to the creation of the initial synthetic QA dataset.
 
 - **Condor Refine (Data Refinement):**
 
-  In the data refinement stage, Condor employs a \textbf{Self-Reflection Refinement} strategy, allowing the model to iteratively optimize the responses by generating new critiques and obtain the final refined dataset.
+  In the data refinement stage, Condor employs a **Self-Reflection Refinement** strategy, allowing the model to iteratively optimize the responses by generating new critiques and obtain the final refined dataset.
 
 ## 🌟 Tag for Data Generation
 
