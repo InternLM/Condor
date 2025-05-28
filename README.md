@@ -1,4 +1,4 @@
-# Condor
+# Condor: Enhance LLM Alignment with Knowledge-Driven Data Synthesis and Refinement
 
 [![arXiv](https://img.shields.io/badge/arXiv-2501.12273-b31b1b.svg)](https://arxiv.org/abs/2501.12273)
 [![license](https://img.shields.io/github/license/InternLM/opencompass.svg)](./LICENSE)
